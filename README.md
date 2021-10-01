@@ -1,4 +1,4 @@
-# VSD---Physical-Verification-using-SKY130
+# Training VSD---Physical-Verification-using-SKY130
 
 ## Contents:
 - Day 1 - Introduction to SkyWater SKY130
