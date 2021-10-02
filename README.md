@@ -50,9 +50,16 @@ magic shortcuts:
 - ctrl+p after selecting instance "instance properties"
 
 ## Lab2
-1) Creating a new workspace
-2) Open magic and read sky130 library gds
-3) List available styles
-4) Open a stdcell view
-5) Switch between different available styles
-
+# part 1
+- Creating a new workspace 
+- Open magic and read sky130 library gds
+![lab02_v01_01](https://user-images.githubusercontent.com/16929397/135720178-941c2c8d-44ab-4cd9-8473-e8ff9173564c.png)
+- list available cells
+![lab02_v01_02](https://user-images.githubusercontent.com/16929397/135720222-eeceb18f-9a5d-4751-b0a4-52e97f58d460.png)
+- Open a stdcell view using --> options --> Cell Manager
+![lab02_v01_03](https://user-images.githubusercontent.com/16929397/135720257-f8182d04-3f09-4ee2-bcf6-590f5e0680d4.png)
+![lab02_v01_04](https://user-images.githubusercontent.com/16929397/135720301-e198b10a-5f61-456e-9e7d-586c8778296e.png)
+- List available styles
+![lab02_v01_00](https://user-images.githubusercontent.com/16929397/135720100-e531a006-a4a7-4b41-8f48-dfa1324dab68.png)
+- Switch between different available styles
+![lab02_v01_06](https://user-images.githubusercontent.com/16929397/135720327-d919197a-0e18-41a3-8bb7-3f1f6921997a.png)
