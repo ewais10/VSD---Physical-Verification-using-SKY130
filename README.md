@@ -2,7 +2,7 @@
 
 ## Contents:
 - Day 1 - Introduction to SkyWater SKY130
-
+- Day 2 
 ## Notes and Useful Links
 
 - Documentation https://skywater-pdk--136.org.readthedocs.build
@@ -48,3 +48,11 @@ magic shortcuts:
 - s "select pins"
 - what command to show instance info
 - ctrl+p after selecting instance "instance properties"
+
+## Lab2
+1) Creating a new workspace
+2) Open magic and read sky130 library gds
+3) List available styles
+4) Open a stdcell view
+5) Switch between different available styles
+
