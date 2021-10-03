@@ -2,7 +2,7 @@
 
 ## Contents:
 - Day 1 - Introduction to SkyWater SKY130
-- Day 2 
+- Day 2 - DRC/LVS Theory and Labs
 ## Notes and Useful Links
 
 - Documentation https://skywater-pdk--136.org.readthedocs.build
